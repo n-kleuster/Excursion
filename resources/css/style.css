@@ -23,12 +23,14 @@ h3 {
 }
 
 .link {
+    font-family: Verdana;
     color: aquamarine;
     display: block;
     font-size: 16px;
 }
 
 .copyright {
+    font-family: Verdana;
     text-align: right;
     color: gray;
 }
